@@ -1,4 +1,10 @@
- THE WORK OF ELIZABETH COLWELL By ALICE ROUILLIER
+---
+layout: narrative
+title: THE WORK OF ELIZABETH COLWELL
+author: ALICE ROUILLIER
+source: The Graphic Arts Journal
+---
+
 Miss Elizabeth Colwell is the first woman designer The Graphic Arts has presented in this depart ment. Her drawings first attracted attention in connection with the publicity of Marshall Field, and, later, her series of lettered designs for Cowan were the subject of much favorable comment among those folks appreciative of distinctive advertising.
 dn inspection of Miss Colwell’s work on the following pages will show its suitability for commercial requirements, such as the decorative treatment of artistic brochures and booklets. The examples of lettering shown in the Cowan advertisements are exactly in keeping with the nature of that firm's business from the viewpoints of layout and style of letter employed. It has been an axiom among designers, although just why it is hard to say, that women cannot do good lettering. Miss Colwell, with many other women designers, mfl’rs direct proof to the contrary.
 Her work has been favorably known among book-makers for a long time, while examples of her book—plates are to be found in every collection representing the modern idea of this interesting art. It is regrettable that more of her plates are not available for presentation in this exhibit. Miss Colwell’ s studio is at 1373 East 57th Street, Chicago.—EDiToa.
