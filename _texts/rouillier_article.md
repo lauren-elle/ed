@@ -4,10 +4,11 @@ title: THE WORK OF ELIZABETH COLWELL
 author: ALICE ROUILLIER
 source: The Graphic Arts Journal
 ---
-# __From the Editor__
+![Elizabeth Colwell Portrait](https://github.com/lauren-elle/ed/blob/gh-pages/assets/Elizabeth_colwell_portrait_1913.jpg)
 ___
 ## [Miss Elizabeth Colwell](https://en.wikipedia.org/wiki/Elizabeth_Colwell) is the first woman designer The Graphic Arts has presented in this department. Her drawings first attracted attention in connection with the publicity of Marshall Field, and, later, her series of lettered designs for Cowan were the subject of much favorable comment among those folks appreciative of distinctive advertising.
-dn inspection of Miss Colwell’s work on the following pages will show its suitability for commercial requirements, such as the decorative treatment of artistic brochures and booklets. The examples of lettering shown in the Cowan advertisements are exactly in keeping with the nature of that firm's business from the viewpoints of layout and style of letter employed. It has been an axiom among designers, although just why it is hard to say, that women cannot do good lettering. Miss Colwell, with many other women designers, mfl’rs direct proof to the contrary.
+dn inspection of Miss Colwell’s [^fn]
+work on the following pages will show its suitability for commercial requirements, such as the decorative treatment of artistic brochures and booklets. The examples of lettering shown in the Cowan advertisements are exactly in keeping with the nature of that firm's business from the viewpoints of layout and style of letter employed. It has been an axiom among designers, although just why it is hard to say, that women cannot do good lettering. Miss Colwell, with many other women designers, mfl’rs direct proof to the contrary.
 Her work has been favorably known among book-makers for a long time, while examples of her book—plates are to be found in every collection representing the modern idea of this interesting art. It is regrettable that more of her plates are not available for presentation in this exhibit. Miss Colwell’ s studio is at 1373 East 57th Street, Chicago.—EDiToa.
  ‘ ISS COLWELL once said to me: “ All the ele
 clear cut, her arrangements dignified and full of grace, bearing always the stamp of origi nality. Some of the designs made for Cowan, reproduced in these pages, in which the dec orative result obtained with that paucity of means, the combination of the Roman and the Italic letters, are among her most successful
